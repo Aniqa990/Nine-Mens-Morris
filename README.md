@@ -110,17 +110,17 @@ Laiba Mohsin (22k-4246): GUI design using Pygame, integration with gameflow, and
 
 ## 8. Results and Discussion
 #### AI Performance:
-Sample average decision time with alpha beta pruning at depth 4 for one game
-\ ![Screenshot of average decision time with alpha beta pruning at depth 4 for one game.](/assets/AB_depth4.png)
+Sample average decision time with alpha beta pruning at depth 4 for one game  
+![Screenshot of average decision time with alpha beta pruning at depth 4 for one game.](/assets/AB_depth4.png)
 
-Sample average decision time with alpha beta pruning at depth 3 for one game
-\ ![Screenshot of average decision time with alpha beta pruning at depth 3 for one game.](/assets/AB_depth3.png)
+Sample average decision time with alpha beta pruning at depth 3 for one game  
+![Screenshot of average decision time with alpha beta pruning at depth 3 for one game.](/assets/AB_depth3.png)
 
-Sample average decision time with minimax at depth 3 for one game
-\ ![Screenshot of average decision time with minimax at depth 3 for one game.](/assets/minimax_depth3.png)
+Sample average decision time with minimax at depth 3 for one game  
+![Screenshot of average decision time with minimax at depth 3 for one game.](/assets/minimax_depth3.png)
 
-Sample average decision time with minimax at depth 4 for one game:
-\ ![Screenshot of average decision time with minimax at depth 4 for one game.](/assets/minimax_depth4.png)
+Sample average decision time with minimax at depth 4 for one game:  
+![Screenshot of average decision time with minimax at depth 4 for one game.](/assets/minimax_depth4.png)
 
 Effectiveness increased with deeper lookahead, though computational cost rose significantly without pruning.
 The AI demonstrated strong tactical awareness, especially in mill formation and blocking.
